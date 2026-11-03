@@ -27,29 +27,6 @@
 
 ---
 
-## 🎬 A Little Intro
-
-<div align="center">
-
-<!--
-  ▶ OPTION A — Playable video (recommended)
-  1. Click the ✏️ pencil to edit this README on github.com
-  2. Drag & drop  assets/intro.mp4  into the editor
-  3. GitHub inserts a link like  https://github.com/user-attachments/assets/xxxx
-  4. Keep that link on its own line below and delete the GIF block (Option B)
--->
-
-<!-- ▶ OPTION B — Works instantly (GIF preview that links to the full video) -->
-<a href="https://github.com/devendrahundalekar/devendrahundalekar/blob/main/assets/intro.mp4">
-  <img src="assets/intro-preview.gif" width="480" alt="Intro video – click to watch full quality" />
-</a>
-
-<sub>🎥 <a href="https://github.com/devendrahundalekar/devendrahundalekar/blob/main/assets/intro.mp4">Click to watch the full-quality video</a></sub>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 ```python
