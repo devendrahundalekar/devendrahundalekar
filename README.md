@@ -40,11 +40,11 @@
 -->
 
 <!-- ▶ OPTION B — Works instantly (GIF preview that links to the full video) -->
-<a href="assets/intro.mp4">
+<a href="https://github.com/devendrahundalekar/devendrahundalekar/blob/main/assets/intro.mp4">
   <img src="assets/intro-preview.gif" width="480" alt="Intro video – click to watch full quality" />
 </a>
 
-<sub>🎥 <a href="assets/intro.mp4">Click to watch the full-quality video</a></sub>
+<sub>🎥 <a href="https://github.com/devendrahundalekar/devendrahundalekar/blob/main/assets/intro.mp4">Click to watch the full-quality video</a></sub>
 
 </div>
 
@@ -52,14 +52,12 @@
 
 ## 👨‍💻 About Me
 
-```js
-const devendra = {
-  role: "AI/ML Engineer & Full-Stack Developer",
-  focus: ["Machine Learning", "Generative AI", "Web Apps", "UI/UX Design"],
-  currentlyLearning: ["LLM apps", "Agents", "System design"],
-  funFact: "I like turning ideas into clean, usable products 🚀",
-  lookingFor: "Collaboration on AI + Web projects"
-};
+```python
+class Devendra:
+    role     = "AI/ML Engineer | Full-Stack Developer"
+    passions = ["Machine Learning", "Generative AI", "Web Development", "UI/UX Design"]
+    mindset  = "Build smart. Design clean. Ship fast. 🚀"
+    open_to  = "Collaborations, projects & learning together"
 ```
 
 - 🔭 Building intelligent products that blend **AI/ML** with **delightful UI**
@@ -98,18 +96,6 @@ const devendra = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendrahundalekar&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=devendrahundalekar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devendrahundalekar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 </div>
 
 ---
