@@ -27,23 +27,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```python
-class Devendra:
-    role     = "AI/ML Engineer | Full-Stack Developer"
-    passions = ["Machine Learning", "Generative AI", "Web Development", "UI/UX Design"]
-    mindset  = "Build smart. Design clean. Ship fast. 🚀"
-    open_to  = "Collaborations, projects & learning together"
-```
-
-- 🔭 Building intelligent products that blend **AI/ML** with **delightful UI**
-- 🌱 Exploring **Generative AI** and its real-world applications
-- 🎨 Designing interfaces that feel as good as they work
-- 💬 Ask me about **Python, React, Django, OpenCV, and ML**
-
----
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
